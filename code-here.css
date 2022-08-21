@@ -1,0 +1,42 @@
+#classic {
+width: 50%;
+  border: 1px solid black;
+  height: 50%;
+  min-width: 5em;
+  display: block;
+  margin-bottom: 3em;
+  vertical-align: top;
+}
+
+#modern {
+  background: #f6d705
+        text-align: center;
+        font-family
+  
+  
+}
+
+#impact {
+
+}
+
+#elise {
+
+}
+
+#one, #two  {
+
+}
+
+#gaudi {
+ background-color: salmon;
+  padding: 2em;
+  border-radius: 15px 50px;
+box-shadow: 2em 2em 10em #433737;
+font-family: sans-serif;
+  text-align: center;
+}
+
+
+
+
